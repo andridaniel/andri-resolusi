@@ -2,4 +2,6 @@
 
 - learn javascript
  *framework javascript
+   -vue javascript
  *struktur data
+
