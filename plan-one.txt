@@ -1,0 +1,4 @@
+- plan step one
+
+- learn javascript
+ *framework javascript
