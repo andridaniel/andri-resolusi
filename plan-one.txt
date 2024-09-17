@@ -2,4 +2,6 @@
 
 - learn javascript
  *framework javascript
- *struktur data
+
+- learn php
+ * framework laravel
