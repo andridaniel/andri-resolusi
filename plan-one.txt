@@ -2,3 +2,4 @@
 
 - learn javascript
  *framework javascript
+ *struktur data
